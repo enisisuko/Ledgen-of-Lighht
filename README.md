@@ -4,7 +4,7 @@ cat > README.md << 'MD'
 <p align="right">🌐 Language: <b>简体中文</b> · <a href="./README.ja.md">日本語</a></p>
 
 <!-- hero -->
-<h1 align="center">光灵传说 · Lumen Saga</h1>
+<h1 align="center">光灵传说 · Ledgen of Light</h1>
 <p align="center"><em>当文明褪去，仍需有人将光点燃。</em></p>
 <p align="center">
   <a href="../../releases"><img alt="Releases" src="https://img.shields.io/badge/download-releases-3b82f6"></a>
