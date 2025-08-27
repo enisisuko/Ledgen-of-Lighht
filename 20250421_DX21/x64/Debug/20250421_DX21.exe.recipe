@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\x64\Debug\20250421_DX21.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\shader_pixel_2d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\shader_vertex_2d.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

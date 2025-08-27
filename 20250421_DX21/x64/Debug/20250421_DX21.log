@@ -1,0 +1,172 @@
+﻿  compilation object save succeeded; see O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\shader_pixel_2d.cso
+  compilation object save succeeded; see O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\shader_vertex_2d.cso
+  BuildSystem.cpp
+  BuildUI.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“BuildUI.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“BuildUI.cpp”)
+  
+  ChiliTimer.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\ChiliTimer\ChiliTimer.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\ChiliTimer\ChiliTimer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ChiliTimer/ChiliTimer.cpp”)
+  
+  collision.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“collision.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“collision.cpp”)
+  
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\collision.cpp(148,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  controller.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“controller.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“controller.cpp”)
+  
+  debug_ostream.cpp
+  direct3d.cpp
+  GameBattle.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameBattle.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameBattle.cpp”)
+  
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GameBattle.cpp(1354,32): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  GameReady.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameReady.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameReady.cpp”)
+  
+  GameResult.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameResult.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameResult.cpp”)
+  
+  game.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“game.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“game.cpp”)
+  
+  gamebg.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“gamebg.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“gamebg.cpp”)
+  
+  GamepadManager.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GamepadManager%20_1.0/GamepadManager.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  GamepadManager_DEDUG.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GamepadManager%20_1.0/GamepadManager_DEDUG.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.cpp(112,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.cpp(119,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Keyboard.cpp
+  main.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\ChiliTimer\ChiliTimer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+  Map.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Map.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Map.cpp”)
+  
+  Mouse.cpp
+  player.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“player.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“player.cpp”)
+  
+  shader.cpp
+  正在生成代码...
+  正在编译...
+  sprite.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“sprite.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“sprite.cpp”)
+  
+  system.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“system.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“system.cpp”)
+  
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\system.cpp(77,10): warning C4101: “hbrWhite”: 未引用的局部变量
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\system.cpp(77,20): warning C4101: “hbrGray”: 未引用的局部变量
+  texture.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“texture.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“texture.cpp”)
+  
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\ffmpeg\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“texture.cpp”)
+  
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\texture.cpp(66,27): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\texture.cpp(72,27): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\texture.cpp(102,30): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\texture.cpp(122,30): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\texture.cpp(147,42): warning C4566: 由通用字符名称“\u26A0”表示的字符不能在当前代码页(936)中表示出来
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\texture.cpp(147,42): warning C4566: 由通用字符名称“\uFE0F”表示的字符不能在当前代码页(936)中表示出来
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\texture.cpp(158,30): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\texture.cpp(212,24): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  UI.cpp
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UI.cpp”)
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\GamepadManager _1.0\GamepadManager_DEDUG.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UI.cpp”)
+  
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\UI.cpp(109,10): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\UI.cpp(110,10): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+BuildSystem.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  20250421_DX21.vcxproj -> O:\三校成品2.2 - 副本 - 副本\三校成品2.1\GAME-08-18\x64\Debug\20250421_DX21.exe

@@ -1,0 +1,25 @@
+# Visual Studio / C++
+.vs/
+*.VC.db
+*.ipch
+**/ipch/
+# 
+[Bb]uild*/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+Win32/
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.tmp
+# /粻
+*.exe
+*.dll
+*.lib
+*.exp
+# ?粻
+ffmpeg/
